@@ -1,6 +1,15 @@
 <html>
-    <head><title>qatar</title></head>
+    <head><title>group1</title></head>
     <body>
+        <h1>hello</h1>
         <p>jordan</p>
+        <p><b>hello</b></p>
+        <a href="https://www.google.com/">Google</a>
+        <img src="img_chania.jpg" alt="Flowers in Chania">
+        <ul>
+            <li>Coffee</li>
+            <li>Tea</li>
+            <li>Milk</li>
+          </ul>
     </body>
     </html>
